@@ -12,6 +12,7 @@ class LeapYearMapperTest {
         Assertions.assertTrue(LeapYearMapper.checkLeapYear(2400),"true");
         Assertions.assertTrue(LeapYearMapper.checkLeapYear(2008),"true");
         Assertions.assertFalse(LeapYearMapper.checkLeapYear(2300),"false");
+        Assertions.assertFalse(LeapYearMapper.checkLeapYear(3300),"false");
 
     }
 

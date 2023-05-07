@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53d0dadd-b4fc-4f86-afc6-6626347b40ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gregm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gregm/banjoMandolin/BanjoMandolinMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gregm/banjoMandolin/BanjoMandolinType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gregm/romanNumber/RomanNumeralsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gregm/romanNumber/RomanNumeralsType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gregm/year/LeapYearMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BanjoMandolinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeapYearMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RomanNumeralsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="53d0dadd-b4fc-4f86-afc6-6626347b40ee" name="Changes" comment="Perfectly finish" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,11 +127,23 @@
       <updated>1682498234138</updated>
       <workItem from="1682498235376" duration="5080000" />
       <workItem from="1683400189285" duration="7926000" />
-      <workItem from="1683454809041" duration="12278000" />
+      <workItem from="1683454809041" duration="12556000" />
     </task>
+    <task id="LOCAL-00001" summary="Perfectly finish">
+      <created>1683485362952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683485362952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Perfectly finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Perfectly finish" />
   </component>
 </project>
